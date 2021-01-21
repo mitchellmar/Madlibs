@@ -64,7 +64,7 @@ int main()
 	std::cin >> number2;
 
 
-	std::cout << "Pizza was invented by " << adjective1 << " " << nationality1 << "\n";
+	std::cout << "Pizza was invented by a " << adjective1 << " " << nationality1 << "\n";
 	std::cout << "chef named " << famPerson1 << ". To make a pizza, you need\n";
 	std::cout << "to take a lump of " << noun1 << ", and make thin, round\n";
 	std::cout << adjective2 << " " << noun2 << ". Then you cover it with\n";
